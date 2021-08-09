@@ -8,6 +8,6 @@
 </head>
 <body>
 <h1>Welcome to Hello world !!!</h1>
-<h2>Building war file in Jenkins automatic build </h2>
+<h2>Hey this is used for automatics Build when using change  </h2>
 </body>
 </html>
