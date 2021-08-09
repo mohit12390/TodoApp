@@ -8,6 +8,6 @@
 </head>
 <body>
 <h1>Welcome to Hello world !!!</h1>
-<h2>Hey this is used for automatics Build when using change  </h2>
+<h2>Change it for automatics Build when using change  </h2>
 </body>
 </html>
