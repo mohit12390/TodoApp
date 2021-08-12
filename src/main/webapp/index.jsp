@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>Welcome to Hello world !!!</h1>
-<h2>nothing it for automatics Build when using change  </h2>
+<h1>Welcome to JENKINS World  !!!</h1>
+<h2>This is main real world entity</h2>
 </body>
 </html>
