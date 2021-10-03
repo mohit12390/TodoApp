@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>Welcome to JENKINS World  !!!</h1>
+<h1>Interesting Pipeline</h1>
 <h2>This is main real world entity</h2>
 </body>
 </html>
