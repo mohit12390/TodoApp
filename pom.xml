@@ -25,7 +25,7 @@
 	<build>
 		<finalName>TodoApp</finalName>
 	</build>
-	<distributionManagement>
+	<!-- <distributionManagement>
 	    <repository>
 	      <id>nexus</id>
 	      <name>Releases</name>
@@ -36,5 +36,5 @@
 	      <name>Snapshot</name>
 	      <url>http://localhost:8081/repository/maven-snapshots</url>
 	    </snapshotRepository>
-  </distributionManagement>
+  </distributionManagement> -->
 </project>
